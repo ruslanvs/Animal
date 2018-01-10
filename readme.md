@@ -1,0 +1,1 @@
+Inheritance in OOP educational assignment at Coding Dojo
